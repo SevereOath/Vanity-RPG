@@ -1,0 +1,4 @@
+Name; ["Test DLC Pack"],
+  Price: 0,
+  Description: "",
+Image1: [""]
